@@ -44,7 +44,10 @@ a:visited {
 .card {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+    flex:none;
     width: 450px;
+    align-self: auto;
     border-radius: 0px;
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
