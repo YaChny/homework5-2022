@@ -3,7 +3,7 @@
     to {width: 475px; opacity: 1;}
 }
 
-img {
+#logo {
     animation-name: logo;
     animation-duration: 5s;
 }
