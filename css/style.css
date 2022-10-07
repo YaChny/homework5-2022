@@ -105,7 +105,7 @@ a:visited {
 }
 
 @media (prefers-reduced-motion) {
-    img {
+    #logo {
         animation: none;
     }
 }
